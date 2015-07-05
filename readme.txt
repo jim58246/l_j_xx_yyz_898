@@ -6,3 +6,4 @@ To under stand stage, git status
 xxxx
 yyyy
 zzzz
+create a new brach is quick
